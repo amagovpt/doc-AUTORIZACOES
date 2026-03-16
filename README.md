@@ -13,4 +13,4 @@ Este repositório contêm a documentação técnica relativamente ao serviço de
 * [Manual de integração do Serviço de Autorizações (download pdf)](https://amagovpt.github.io/doc-AUTORIZACOES/Utilizacao_sistema_autorizacoes.pdf)
 
 ## Contactos
-Para questões, sugestões ou comentários envie um e-mail para eid@ama.gov.pt.
+Para questões, sugestões ou comentários envie um e-mail para eid@arte.gov.pt.
